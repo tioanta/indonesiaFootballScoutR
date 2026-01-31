@@ -1,0 +1,21 @@
+Package: indonesiaFootballScoutR
+Type: Package
+Title: Tools for Football Player Scouting in Indonesia
+Version: 0.1.0
+Authors@R: 
+    person("Tio", "Anta Wibawa", email = "tio158@gmail.com", role = c("aut", "cre"))
+Description: 
+    Provides tools to scrape, clean, and analyze football player data
+    from Indonesian leagues and perform similarity-based scouting analysis.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr,
+    rvest,
+    purrr,
+    tibble,
+    stringr,
+    readr,
+    proxy
+RoxygenNote: 7.3.3
