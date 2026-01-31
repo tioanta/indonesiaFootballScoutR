@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-garudascoutR is an R port of the Indonesia Football Scout AI project. This package serves as an automated scouting assistant that harvests football market data (from Transfermarkt) and utilizes lightweight Machine Learning to identify suitable players, analyze market profiles, and detect potential talents across the Southeast Asian region.
+indonesiaFootballScoutR is an R port of the Indonesia Football Scout AI project. This package serves as an automated scouting assistant that harvests football market data (from Transfermarkt) and utilizes lightweight Machine Learning to identify suitable players, analyze market profiles, and detect potential talents across the Southeast Asian region.
 
 📋 Key Features
 1. The Collector (Automated Scraper):
