@@ -6,4 +6,6 @@
 0 errors | 0 warnings | 0 notes
 
 ## Comments
-Initial submission.
+This is a resubmission.
+Added examples to demonstrate package functionality
+as requested by CRAN incoming checks.
