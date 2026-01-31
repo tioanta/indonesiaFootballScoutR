@@ -1,7 +1,7 @@
 Package: indonesiaFootballScoutR
 Type: Package
 Title: Tools for Football Player Scouting in Indonesia
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person("Tio", "Anta Wibawa", email = "tio158@gmail.com", role = c("aut", "cre"))
 Description: 
